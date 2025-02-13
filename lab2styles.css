@@ -1,0 +1,48 @@
+/*page 1*/
+body {
+    background-color: #f0f8ff; /* Light Blue */
+    font-family: Arial, sans-serif;
+}
+
+.input-container {
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin-top: 5px;
+    display: block;
+}
+
+.submit-btn {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #45a049; 
+}
+
+/* page 2 styles */
+.Lab2Page2 {
+    background-color: #ffe4b5; 
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+}
